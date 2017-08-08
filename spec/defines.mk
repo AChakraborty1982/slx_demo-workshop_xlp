@@ -18,4 +18,4 @@ LDLIBS  := -lm
 ##############################################################################
 COMMAND_LINE_OPTIONS := 
 
-PLATFORM :=/home/user/silexica/platforms/platform_descriptions/exynos.platform
+PLATFORM :=exynos.platform

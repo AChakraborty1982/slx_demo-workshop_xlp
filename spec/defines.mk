@@ -19,3 +19,4 @@ LDLIBS  := -lm
 COMMAND_LINE_OPTIONS := 
 
 PLATFORM :=exynos.platform
+CA_PROCESSOR := ARM01

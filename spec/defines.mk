@@ -18,5 +18,5 @@ LDLIBS  := -lm
 ##############################################################################
 COMMAND_LINE_OPTIONS := 
 
-PLATFORM :=exynos.platform
+PLATFORM :=exynos
 CA_PROCESSOR := ARM01
